@@ -1,0 +1,14 @@
+{
+  "name": "hacker-news-favorite-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse-books.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
