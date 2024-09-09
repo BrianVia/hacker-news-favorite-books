@@ -17,7 +17,7 @@ I may receive a commission from purchases made via these URLs.
 | George Orwell | 1984 | [Amazon](https://amzn.to/4cZcy2Y) |
 | Haruki Murakami | 1Q84 | [Amazon](https://amzn.to/4ecX3Wn) |
 | Arthur C. Clarke | 2001 | [Amazon](https://amzn.to/4egQcem) |
-| Yuval Noah Harari | 21 Lessons for the 21st Century | [Amazon](https://www.amazon.com/s?k=Yuval%20Noah%20Harari+21%20Lessons%20for%20the%2021st%20Century) |
+| Yuval Noah Harari | 21 Lessons for the 21st Century | [Amazon](https://amzn.to/4edvXyk) |
 | Roberto Bolaño | 2666 | [Amazon](https://www.amazon.com/s?k=Roberto%20Bola%C3%B1o+2666) |
 | Charles Pinter | A Book of Abstract Algebra | [Amazon](https://www.amazon.com/s?k=Charles%20Pinter+A%20Book%20of%20Abstract%20Algebra) |
 | Stephen Hawking | A Brief History of Time | [Amazon](https://www.amazon.com/s?k=Stephen%20Hawking+A%20Brief%20History%20of%20Time) |
@@ -36,7 +36,7 @@ I may receive a commission from purchases made via these URLs.
 | Paul Lockhart | A Mathematician's Lament | [Amazon](https://www.amazon.com/s?k=Paul%20Lockhart+A%20Mathematician's%20Lament) |
 | Elbert Hubbard | A Message to Garcia | [Amazon](https://www.amazon.com/s?k=Elbert%20Hubbard+A%20Message%20to%20Garcia) |
 | Barbara Oakley | A Mind for Numbers | [Amazon](https://www.amazon.com/s?k=Barbara%20Oakley+A%20Mind%20for%20Numbers) |
-| Stephen Wolfram | A New Kind of Science | [Amazon](https://www.amazon.com/s?k=Stephen%20Wolfram+A%20New%20Kind%20of%20Science) |
+| Stephen Wolfram | A New Kind of Science | [Amazon](https://amzn.to/4dTQ4C5) |
 | Christopher Alexander | A Pattern Language | [Amazon](https://www.amazon.com/s?k=Christopher%20Alexander+A%20Pattern%20Language) |
 | Howard Zinn | A People's History of the United States | [Amazon](https://www.amazon.com/s?k=Howard%20Zinn+A%20People's%20History%20of%20the%20United%20States) |
 | Orlando Figes | A People's Tragedy | [Amazon](https://www.amazon.com/s?k=Orlando%20Figes+A%20People's%20Tragedy) |
@@ -1127,4 +1127,4 @@ I may receive a commission from purchases made via these URLs.
 | Robert M. Pirsig | Zen and the Art of Motorcycle Maintenance | [Amazon](https://www.amazon.com/s?k=Robert%20M.%20Pirsig+Zen%20and%20the%20Art%20of%20Motorcycle%20Maintenance) |
 | Paul Reps | Zen Flesh, Zen Bones | [Amazon](https://www.amazon.com/s?k=Paul%20Reps+Zen%20Flesh%2C%20Zen%20Bones) |
 | Shunryu Suzuki | Zen Mind, Beginner's Mind | [Amazon](https://www.amazon.com/s?k=Shunryu%20Suzuki+Zen%20Mind%2C%20Beginner's%20Mind) |
-| Peter Thiel | Zero to One | [Amazon](https://www.amazon.com/s?k=Peter%20Thiel+Zero%20to%20One) |
+| Peter Thiel | Zero to One | [Amazon](https://amzn.to/4cX8LDt) |
