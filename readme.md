@@ -1,9 +1,8 @@
 # Hacker News Favorite Books
 
-
 ## List of Books
 List is sorted by title.
-Sourced from this topic - [Show HN: I mapped HN's favorite books with GPT-4o](https://news.ycombinator.com/item?id=41473518).
+Sourced from this topic - [Show HN: I mapped HN's favorite books with GPT-4](https://news.ycombinator.com/item?id=41473518).
 
 I may receive a commission from purchases made via these URLs.
 
@@ -18,144 +17,144 @@ I may receive a commission from purchases made via these URLs.
 | Haruki Murakami | 1Q84 | [Amazon](https://amzn.to/4ecX3Wn) |
 | Arthur C. Clarke | 2001 | [Amazon](https://amzn.to/4egQcem) |
 | Yuval Noah Harari | 21 Lessons for the 21st Century | [Amazon](https://amzn.to/4edvXyk) |
-| Roberto Bolaño | 2666 | [Amazon](https://www.amazon.com/s?k=Roberto%20Bola%C3%B1o+2666) |
-| Charles Pinter | A Book of Abstract Algebra | [Amazon](https://www.amazon.com/s?k=Charles%20Pinter+A%20Book%20of%20Abstract%20Algebra) |
-| Stephen Hawking | A Brief History of Time | [Amazon](https://www.amazon.com/s?k=Stephen%20Hawking+A%20Brief%20History%20of%20Time) |
-| Walter M. Miller Jr. | A Canticle for Leibowitz | [Amazon](https://www.amazon.com/s?k=Walter%20M.%20Miller%20Jr.+A%20Canticle%20for%20Leibowitz) |
-| George R.R. Martin | A Clash of Kings | [Amazon](https://www.amazon.com/s?k=George%20R.R.%20Martin+A%20Clash%20of%20Kings) |
-| John Kennedy Toole | A Confederacy of Dunces | [Amazon](https://www.amazon.com/s?k=John%20Kennedy%20Toole+A%20Confederacy%20of%20Dunces) |
-| Vernor Vinge | A Deepness in the Sky | [Amazon](https://www.amazon.com/s?k=Vernor%20Vinge+A%20Deepness%20in%20the%20Sky) |
-| Edsger W. Dijkstra | A Discipline of Programming | [Amazon](https://www.amazon.com/s?k=Edsger%20W.%20Dijkstra+A%20Discipline%20of%20Programming) |
-| Vernor Vinge | A Fire Upon the Deep | [Amazon](https://www.amazon.com/s?k=Vernor%20Vinge+A%20Fire%20Upon%20the%20Deep) |
-| George R.R. Martin | A Game of Thrones | [Amazon](https://www.amazon.com/s?k=George%20R.R.%20Martin+A%20Game%20of%20Thrones) |
-| C.S. Lewis | A Grief Observed | [Amazon](https://www.amazon.com/s?k=C.S.%20Lewis+A%20Grief%20Observed) |
-| William B. Irvine | A Guide to the Good Life | [Amazon](https://www.amazon.com/s?k=William%20B.%20Irvine+A%20Guide%20to%20the%20Good%20Life) |
-| Bertrand Russell | A History of Western Philosophy | [Amazon](https://www.amazon.com/s?k=Bertrand%20Russell+A%20History%20of%20Western%20Philosophy) |
-| Edward O. Thorp | A Man for All Markets | [Amazon](https://www.amazon.com/s?k=Edward%20O.%20Thorp+A%20Man%20for%20All%20Markets) |
-| G.H. Hardy | A Mathematician's Apology | [Amazon](https://www.amazon.com/s?k=G.H.%20Hardy+A%20Mathematician's%20Apology) |
-| Paul Lockhart | A Mathematician's Lament | [Amazon](https://www.amazon.com/s?k=Paul%20Lockhart+A%20Mathematician's%20Lament) |
-| Elbert Hubbard | A Message to Garcia | [Amazon](https://www.amazon.com/s?k=Elbert%20Hubbard+A%20Message%20to%20Garcia) |
-| Barbara Oakley | A Mind for Numbers | [Amazon](https://www.amazon.com/s?k=Barbara%20Oakley+A%20Mind%20for%20Numbers) |
+| Roberto Bolaño | 2666 | [Amazon](https://amzn.to/3Zk24s8) |
+| Charles Pinter | A Book of Abstract Algebra | [Amazon](https://amzn.to/4d253IN) |
+| Stephen Hawking | A Brief History of Time | [Amazon](https://amzn.to/3ToSSyJ) |
+| Walter M. Miller Jr. | A Canticle for Leibowitz | [Amazon](https://amzn.to/3XjFAVl) |
+| George R.R. Martin | A Clash of Kings | [Amazon](https://amzn.to/3XjFAVl) |
+| John Kennedy Toole | A Confederacy of Dunces | [Amazon](https://amzn.to/3ZjtOgy) |
+| Vernor Vinge | A Deepness in the Sky | [Amazon](https://amzn.to/4e1MWUD) |
+| Edsger W. Dijkstra | A Discipline of Programming | [Amazon](https://amzn.to/4d2qZDJ) |
+| Vernor Vinge | A Fire Upon the Deep | [Amazon](https://amzn.to/4dZipqG) |
+| George R.R. Martin | A Game of Thrones | [Amazon](https://amzn.to/3zkt67S) |
+| C.S. Lewis | A Grief Observed | [Amazon](https://amzn.to/4dVC4Ys) |
+| William B. Irvine | A Guide to the Good Life | [Amazon](https://amzn.to/3XCPEKs) |
+| Bertrand Russell | A History of Western Philosophy | [Amazon](https://amzn.to/3ZgD30M) |
+| Edward O. Thorp | A Man for All Markets | [Amazon](https://amzn.to/3ZcD4Tw) |
+| G.H. Hardy | A Mathematician's Apology | [Amazon](https://amzn.to/3Zij3ed) |
+| Paul Lockhart | A Mathematician's Lament | [Amazon](https://amzn.to/3XD1Db5) |
+| Elbert Hubbard | A Message to Garcia | [Amazon](https://amzn.to/3Xgkd7v) |
+| Barbara Oakley | A Mind for Numbers | [Amazon](https://amzn.to/3AWr2Ul) |
 | Stephen Wolfram | A New Kind of Science | [Amazon](https://amzn.to/4dTQ4C5) |
-| Christopher Alexander | A Pattern Language | [Amazon](https://www.amazon.com/s?k=Christopher%20Alexander+A%20Pattern%20Language) |
-| Howard Zinn | A People's History of the United States | [Amazon](https://www.amazon.com/s?k=Howard%20Zinn+A%20People's%20History%20of%20the%20United%20States) |
-| Orlando Figes | A People's Tragedy | [Amazon](https://www.amazon.com/s?k=Orlando%20Figes+A%20People's%20Tragedy) |
-| John Ousterhout | A Philosophy of Software Design | [Amazon](https://www.amazon.com/s?k=John%20Ousterhout+A%20Philosophy%20of%20Software%20Design) |
-| Burton G. Malkiel | A Random Walk Down Wall Street | [Amazon](https://www.amazon.com/s?k=Burton%20G.%20Malkiel+A%20Random%20Walk%20Down%20Wall%20Street) |
-| Philip K. Dick | A Scanner Darkly | [Amazon](https://www.amazon.com/s?k=Philip%20K.%20Dick+A%20Scanner%20Darkly) |
-| Bill Bryson | A Short History of Nearly Everything | [Amazon](https://www.amazon.com/s?k=Bill%20Bryson+A%20Short%20History%20of%20Nearly%20Everything) |
-| George R.R. Martin | A Song of Ice and Fire | [Amazon](https://www.amazon.com/s?k=George%20R.R.%20Martin+A%20Song%20of%20Ice%20and%20Fire) |
-| Ursula K. Le Guin | A Wizard of Earthsea | [Amazon](https://www.amazon.com/s?k=Ursula%20K.%20Le%20Guin+A%20Wizard%20of%20Earthsea) |
-| Alan Cooper | About Face | [Amazon](https://www.amazon.com/s?k=Alan%20Cooper+About%20Face) |
-| Richard M. Foote | Abstract Algebra | [Amazon](https://www.amazon.com/s?k=Richard%20M.%20Foote+Abstract%20Algebra) |
-| David S. Dummit | Abstract Algebra | [Amazon](https://www.amazon.com/s?k=David%20S.%20Dummit+Abstract%20Algebra) |
-| Steven Kotler | Abundance | [Amazon](https://www.amazon.com/s?k=Steven%20Kotler+Abundance) |
-| Peter H. Diamandis | Abundance | [Amazon](https://www.amazon.com/s?k=Peter%20H.%20Diamandis+Abundance) |
-| Charles Stross | Accelerando | [Amazon](https://www.amazon.com/s?k=Charles%20Stross+Accelerando) |
-| Nicole Forsgren | Accelerate | [Amazon](https://www.amazon.com/s?k=Nicole%20Forsgren+Accelerate) |
-| Gene Kim | Accelerate | [Amazon](https://www.amazon.com/s?k=Gene%20Kim+Accelerate) |
-| Jez Humble | Accelerate | [Amazon](https://www.amazon.com/s?k=Jez%20Humble+Accelerate) |
-| Erwin Kreyszig | Advanced Engineering Mathematics | [Amazon](https://www.amazon.com/s?k=Erwin%20Kreyszig+Advanced%20Engineering%20Mathematics) |
-| Stephen A. Rago | Advanced Programming in the UNIX Environment | [Amazon](https://www.amazon.com/s?k=Stephen%20A.%20Rago+Advanced%20Programming%20in%20the%20UNIX%20Environment) |
-| W. Richard Stevens | Advanced Programming in the UNIX Environment | [Amazon](https://www.amazon.com/s?k=W.%20Richard%20Stevens+Advanced%20Programming%20in%20the%20UNIX%20Environment) |
-| Haruki Murakami | After Dark | [Amazon](https://www.amazon.com/s?k=Haruki%20Murakami+After%20Dark) |
-| Andrew Hodges | Alan Turing | [Amazon](https://www.amazon.com/s?k=Andrew%20Hodges+Alan%20Turing) |
-| Pat Frank | Alas, Babylon | [Amazon](https://www.amazon.com/s?k=Pat%20Frank+Alas%2C%20Babylon) |
-| Robert Sedgewick | Algorithms | [Amazon](https://www.amazon.com/s?k=Robert%20Sedgewick+Algorithms) |
-| Kevin Wayne | Algorithms | [Amazon](https://www.amazon.com/s?k=Kevin%20Wayne+Algorithms) |
-| Niklaus Wirth | Algorithms + Data Structures = Programs | [Amazon](https://www.amazon.com/s?k=Niklaus%20Wirth+Algorithms%20%2B%20Data%20Structures%20%3D%20Programs) |
-| Tom Griffiths | Algorithms to Live By | [Amazon](https://www.amazon.com/s?k=Tom%20Griffiths+Algorithms%20to%20Live%20By) |
-| Brian Christian | Algorithms to Live By | [Amazon](https://www.amazon.com/s?k=Brian%20Christian+Algorithms%20to%20Live%20By) |
-| Lewis Carroll | Alice's Adventures in Wonderland | [Amazon](https://www.amazon.com/s?k=Lewis%20Carroll+Alice's%20Adventures%20in%20Wonderland) |
-| Erich Maria Remarque | All Quiet on the Western Front | [Amazon](https://www.amazon.com/s?k=Erich%20Maria%20Remarque+All%20Quiet%20on%20the%20Western%20Front) |
-| Richard K. Morgan | Altered Carbon | [Amazon](https://www.amazon.com/s?k=Richard%20K.%20Morgan+Altered%20Carbon) |
-| Neil Gaiman | American Gods | [Amazon](https://www.amazon.com/s?k=Neil%20Gaiman+American%20Gods) |
-| Colin Woodard | American Nations | [Amazon](https://www.amazon.com/s?k=Colin%20Woodard+American%20Nations) |
-| Neil Postman | Amusing Ourselves to Death | [Amazon](https://www.amazon.com/s?k=Neil%20Postman+Amusing%20Ourselves%20to%20Death) |
-| Hank Green | An Absolutely Remarkable Thing | [Amazon](https://www.amazon.com/s?k=Hank%20Green+An%20Absolutely%20Remarkable%20Thing) |
-| Will Larson | An Elegant Puzzle | [Amazon](https://www.amazon.com/s?k=Will%20Larson+An%20Elegant%20Puzzle) |
-| Gerald Weinberg | An Introduction to General Systems Thinking | [Amazon](https://www.amazon.com/s?k=Gerald%20Weinberg+An%20Introduction%20to%20General%20Systems%20Thinking) |
-| Daniela Witten | An Introduction to Statistical Learning | [Amazon](https://www.amazon.com/s?k=Daniela%20Witten+An%20Introduction%20to%20Statistical%20Learning) |
-| Robert Tibshirani | An Introduction to Statistical Learning | [Amazon](https://www.amazon.com/s?k=Robert%20Tibshirani+An%20Introduction%20to%20Statistical%20Learning) |
-| Gareth James | An Introduction to Statistical Learning | [Amazon](https://www.amazon.com/s?k=Gareth%20James+An%20Introduction%20to%20Statistical%20Learning) |
-| Trevor Hastie | An Introduction to Statistical Learning | [Amazon](https://www.amazon.com/s?k=Trevor%20Hastie+An%20Introduction%20to%20Statistical%20Learning) |
-| Neal Stephenson | Anathem | [Amazon](https://www.amazon.com/s?k=Neal%20Stephenson+Anathem) |
-| Ann Leckie | Ancillary Justice | [Amazon](https://www.amazon.com/s?k=Ann%20Leckie+Ancillary%20Justice) |
-| George Orwell | Animal Farm | [Amazon](https://www.amazon.com/s?k=George%20Orwell+Animal%20Farm) |
-| Leo Tolstoy | Anna Karenina | [Amazon](https://www.amazon.com/s?k=Leo%20Tolstoy+Anna%20Karenina) |
-| Ayn Rand | Anthem | [Amazon](https://www.amazon.com/s?k=Ayn%20Rand+Anthem) |
-| Nassim Nicholas Taleb | Antifragile | [Amazon](https://www.amazon.com/s?k=Nassim%20Nicholas%20Taleb+Antifragile) |
-| Derek Sivers | Anything You Want | [Amazon](https://www.amazon.com/s?k=Derek%20Sivers+Anything%20You%20Want) |
-| Plato | Apology | [Amazon](https://www.amazon.com/s?k=Plato+Apology) |
-| Bruce Schneier | Applied Cryptography | [Amazon](https://www.amazon.com/s?k=Bruce%20Schneier+Applied%20Cryptography) |
-| Ernest Cline | Armada | [Amazon](https://www.amazon.com/s?k=Ernest%20Cline+Armada) |
-| Ted Orland | Art and Fear | [Amazon](https://www.amazon.com/s?k=Ted%20Orland+Art%20and%20Fear) |
-| David Bayles | Art and Fear | [Amazon](https://www.amazon.com/s?k=David%20Bayles+Art%20and%20Fear) |
-| Andy Weir | Artemis | [Amazon](https://www.amazon.com/s?k=Andy%20Weir+Artemis) |
-| Stuart Russell | Artificial Intelligence | [Amazon](https://www.amazon.com/s?k=Stuart%20Russell+Artificial%20Intelligence) |
-| Peter Norvig | Artificial Intelligence | [Amazon](https://www.amazon.com/s?k=Peter%20Norvig+Artificial%20Intelligence) |
-| Bill Bryson | At Home | [Amazon](https://www.amazon.com/s?k=Bill%20Bryson+At%20Home) |
-| Ayn Rand | Atlas Shrugged | [Amazon](https://www.amazon.com/s?k=Ayn%20Rand+Atlas%20Shrugged) |
-| James Clear | Atomic Habits | [Amazon](https://www.amazon.com/s?k=James%20Clear+Atomic%20Habits) |
-| Paramahansa Yogananda | Autobiography of a Yogi | [Amazon](https://www.amazon.com/s?k=Paramahansa%20Yogananda+Autobiography%20of%20a%20Yogi) |
-| Al Sweigart | Automate the Boring Stuff with Python | [Amazon](https://www.amazon.com/s?k=Al%20Sweigart+Automate%20the%20Boring%20Stuff%20with%20Python) |
-| Tony Robbins | Awaken the Giant Within | [Amazon](https://www.amazon.com/s?k=Tony%20Robbins+Awaken%20the%20Giant%20Within) |
-| Anthony DeMello | Awareness | [Amazon](https://www.amazon.com/s?k=Anthony%20DeMello+Awareness) |
-| John Carreyrou | Bad Blood | [Amazon](https://www.amazon.com/s?k=John%20Carreyrou+Bad%20Blood) |
-| Thomas Sowell | Basic Economics | [Amazon](https://www.amazon.com/s?k=Thomas%20Sowell+Basic%20Economics) |
-| James M. McPherson | Battle Cry of Freedom | [Amazon](https://www.amazon.com/s?k=James%20M.%20McPherson+Battle%20Cry%20of%20Freedom) |
-| Ram Dass | Be Here Now | [Amazon](https://www.amazon.com/s?k=Ram%20Dass+Be%20Here%20Now) |
-| Gerald Weinberg | Becoming a Technical Leader | [Amazon](https://www.amazon.com/s?k=Gerald%20Weinberg+Becoming%20a%20Technical%20Leader) |
-| Robert Sapolsky | Behave | [Amazon](https://www.amazon.com/s?k=Robert%20Sapolsky+Behave) |
-| Martin Heidegger | Being and Time | [Amazon](https://www.amazon.com/s?k=Martin%20Heidegger+Being%20and%20Time) |
-| Atul Gawande | Being Mortal | [Amazon](https://www.amazon.com/s?k=Atul%20Gawande+Being%20Mortal) |
-| Ta-Nehisi Coates | Between the World and Me | [Amazon](https://www.amazon.com/s?k=Ta-Nehisi%20Coates+Between%20the%20World%20and%20Me) |
-| Friedrich Nietzsche | Beyond Good and Evil | [Amazon](https://www.amazon.com/s?k=Friedrich%20Nietzsche+Beyond%20Good%20and%20Evil) |
-| Vyasa | Bhagavad Gita | [Amazon](https://www.amazon.com/s?k=Vyasa+Bhagavad%20Gita) |
-| Nathan Marz | Big Data | [Amazon](https://www.amazon.com/s?k=Nathan%20Marz+Big%20Data) |
-| Anne Lamott | Bird by Bird | [Amazon](https://www.amazon.com/s?k=Anne%20Lamott+Bird%20by%20Bird) |
-| Peter Watts | Blindsight | [Amazon](https://www.amazon.com/s?k=Peter%20Watts+Blindsight) |
-| Malcolm Gladwell | Blink | [Amazon](https://www.amazon.com/s?k=Malcolm%20Gladwell+Blink) |
-| Cormac McCarthy | Blood Meridian | [Amazon](https://www.amazon.com/s?k=Cormac%20McCarthy+Blood%20Meridian) |
-| Renée Mauborgne | Blue Ocean Strategy | [Amazon](https://www.amazon.com/s?k=Ren%C3%A9e%20Mauborgne+Blue%20Ocean%20Strategy) |
-| W. Chan Kim | Blue Ocean Strategy | [Amazon](https://www.amazon.com/s?k=W.%20Chan%20Kim+Blue%20Ocean%20Strategy) |
-| Richard Hammack | Book of Proof | [Amazon](https://www.amazon.com/s?k=Richard%20Hammack+Book%20of%20Proof) |
-| Trevor Noah | Born a Crime | [Amazon](https://www.amazon.com/s?k=Trevor%20Noah+Born%20a%20Crime) |
-| Christopher McDougall | Born to Run | [Amazon](https://www.amazon.com/s?k=Christopher%20McDougall+Born%20to%20Run) |
-| Robert Coram | Boyd | [Amazon](https://www.amazon.com/s?k=Robert%20Coram+Boyd) |
-| John Medina | Brain Rules | [Amazon](https://www.amazon.com/s?k=John%20Medina+Brain%20Rules) |
-| Aldous Huxley | Brave New World | [Amazon](https://www.amazon.com/s?k=Aldous%20Huxley+Brave%20New%20World) |
-| Kurt Vonnegut | Breakfast of Champions | [Amazon](https://www.amazon.com/s?k=Kurt%20Vonnegut+Breakfast%20of%20Champions) |
-| Roger Lowenstein | Buffett | [Amazon](https://www.amazon.com/s?k=Roger%20Lowenstein+Buffett) |
-| John Warrillow | Built to Sell | [Amazon](https://www.amazon.com/s?k=John%20Warrillow+Built%20to%20Sell) |
-| David Graeber | Bullshit Jobs | [Amazon](https://www.amazon.com/s?k=David%20Graeber+Bullshit%20Jobs) |
-| Alexander Osterwalder | Business Model Generation | [Amazon](https://www.amazon.com/s?k=Alexander%20Osterwalder+Business%20Model%20Generation) |
-| Yves Pigneur | Business Model Generation | [Amazon](https://www.amazon.com/s?k=Yves%20Pigneur+Business%20Model%20Generation) |
-| David R. Hanson | C Interfaces and Implementations | [Amazon](https://www.amazon.com/s?k=David%20R.%20Hanson+C%20Interfaces%20and%20Implementations) |
-| Michael Spivak | Calculus | [Amazon](https://www.amazon.com/s?k=Michael%20Spivak+Calculus) |
-| Silvanus P. Thompson | Calculus Made Easy | [Amazon](https://www.amazon.com/s?k=Silvanus%20P.%20Thompson+Calculus%20Made%20Easy) |
-| Michael Spivak | Calculus on Manifolds | [Amazon](https://www.amazon.com/s?k=Michael%20Spivak+Calculus%20on%20Manifolds) |
-| Bill Watterson | Calvin and Hobbes | [Amazon](https://www.amazon.com/s?k=Bill%20Watterson+Calvin%20and%20Hobbes) |
-| David Goggins | Can't Hurt Me | [Amazon](https://www.amazon.com/s?k=David%20Goggins+Can't%20Hurt%20Me) |
-| Voltaire | Candide | [Amazon](https://www.amazon.com/s?k=Voltaire+Candide) |
-| John Steinbeck | Cannery Row | [Amazon](https://www.amazon.com/s?k=John%20Steinbeck+Cannery%20Row) |
-| Karl Marx | Capital | [Amazon](https://www.amazon.com/s?k=Karl%20Marx+Capital) |
-| Thomas Piketty | Capital in the Twenty-First Century | [Amazon](https://www.amazon.com/s?k=Thomas%20Piketty+Capital%20in%20the%20Twenty-First%20Century) |
-| Milton Friedman | Capitalism and Freedom | [Amazon](https://www.amazon.com/s?k=Milton%20Friedman+Capitalism%20and%20Freedom) |
-| Kurt Vonnegut | Cat's Cradle | [Amazon](https://www.amazon.com/s?k=Kurt%20Vonnegut+Cat's%20Cradle) |
-| Joseph Heller | Catch-22 | [Amazon](https://www.amazon.com/s?k=Joseph%20Heller+Catch-22) |
-| James Gleick | Chaos | [Amazon](https://www.amazon.com/s?k=James%20Gleick+Chaos) |
-| Antonio García Martínez | Chaos Monkeys | [Amazon](https://www.amazon.com/s?k=Antonio%20Garc%C3%ADa%20Mart%C3%ADnez+Chaos%20Monkeys) |
-| Frank Herbert | Chapterhouse | [Amazon](https://www.amazon.com/s?k=Frank%20Herbert+Chapterhouse) |
-| Johann Hari | Chasing the Scream | [Amazon](https://www.amazon.com/s?k=Johann%20Hari+Chasing%20the%20Scream) |
-| Arthur C. Clarke | Childhood's End | [Amazon](https://www.amazon.com/s?k=Arthur%20C.%20Clarke+Childhood's%20End) |
-| Frank Herbert | Children of Dune | [Amazon](https://www.amazon.com/s?k=Frank%20Herbert+Children%20of%20Dune) |
-| Adrian Tchaikovsky | Children of Time | [Amazon](https://www.amazon.com/s?k=Adrian%20Tchaikovsky+Children%20of%20Time) |
-| Chris Miller | Chip War | [Amazon](https://www.amazon.com/s?k=Chris%20Miller+Chip%20War) |
-| James Altucher | Choose Yourself | [Amazon](https://www.amazon.com/s?k=James%20Altucher+Choose%20Yourself) |
-| Robert C. Martin | Clean Architecture | [Amazon](https://www.amazon.com/s?k=Robert%20C.%20Martin+Clean%20Architecture) |
-| David Mitchell | Cloud Atlas | [Amazon](https://www.amazon.com/s?k=David%20Mitchell+Cloud%20Atlas) |
-| Charles Petzold | Code | [Amazon](https://www.amazon.com/s?k=Charles%20Petzold+Code) |
+| Christopher Alexander | A Pattern Language | [Amazon](https://amzn.to/3XBBHfJ) |
+| Howard Zinn | A People's History of the United States | [Amazon](https://amzn.to/3XceAqE) |
+| Orlando Figes | A People's Tragedy | [Amazon](https://amzn.to/3Xh6z3X) |
+| John Ousterhout | A Philosophy of Software Design | [Amazon](https://amzn.to/3Zi8Mig) |
+| Burton G. Malkiel | A Random Walk Down Wall Street | [Amazon](https://amzn.to/3XDh1nV) |
+| Philip K. Dick | A Scanner Darkly | [Amazon](https://amzn.to/3XAcFhb) |
+| Bill Bryson | A Short History of Nearly Everything | [Amazon](https://amzn.to/3Xlki9L) |
+| George R.R. Martin | A Song of Ice and Fire | [Amazon](https://amzn.to/3XDh9DV) |
+| Ursula K. Le Guin | A Wizard of Earthsea | [Amazon](https://amzn.to/3XAQ2Jk) |
+| Alan Cooper | About Face | [Amazon](https://amzn.to/3XiWPWT) |
+| Richard M. Foote | Abstract Algebra | [Amazon](https://amzn.to/3Xml4Uc) |
+| David S. Dummit | Abstract Algebra | [Amazon](https://amzn.to/3XCPO4w) |
+| Steven Kotler | Abundance | [Amazon](https://amzn.to/3zef480) |
+| Peter H. Diamandis | Abundance | [Amazon](https://amzn.to/3z8VzxB) |
+| Charles Stross | Accelerando | [Amazon](https://amzn.to/3XigZjU) |
+| Nicole Forsgren | Accelerate | [Amazon](https://amzn.to/3XnlF87) |
+| Gene Kim | Accelerate | [Amazon](https://amzn.to/4ekPxsJ) |
+| Jez Humble | Accelerate | [Amazon](https://amzn.to/4ee2F2A) |
+| Erwin Kreyszig | Advanced Engineering Mathematics | [Amazon](https://amzn.to/3TpbTB7) |
+| Stephen A. Rago | Advanced Programming in the UNIX Environment | [Amazon](https://amzn.to/4eiWuu2) |
+| W. Richard Stevens | Advanced Programming in the UNIX Environment | [Amazon](https://amzn.to/4ehoAWu) |
+| Haruki Murakami | After Dark | [Amazon](https://amzn.to/4ehHtbX) |
+| Andrew Hodges | Alan Turing | [Amazon](https://amzn.to/3XmI6Ks) |
+| Pat Frank | Alas, Babylon | [Amazon](https://amzn.to/3TpbVZL) |
+| Robert Sedgewick | Algorithms | [Amazon](https://amzn.to/3zflYtA) |
+| Kevin Wayne | Algorithms | [Amazon](https://amzn.to/3Top8BY) |
+| Niklaus Wirth | Algorithms + Data Structures = Programs | [Amazon](https://amzn.to/3TmBESw) |
+| Tom Griffiths | Algorithms to Live By | [Amazon](https://amzn.to/3AWrsdn) |
+| Brian Christian | Algorithms to Live By | [Amazon](https://amzn.to/3zflWBY) |
+| Lewis Carroll | Alice's Adventures in Wonderland | [Amazon](https://amzn.to/3Xcd2x2) |
+| Erich Maria Remarque | All Quiet on the Western Front | [Amazon](https://amzn.to/3TmscPa) |
+| Richard K. Morgan | Altered Carbon | [Amazon](https://amzn.to/3XhCz7X) |
+| Neil Gaiman | American Gods | [Amazon](https://amzn.to/3XhV24w) |
+| Colin Woodard | American Nations | [Amazon](https://amzn.to/4d11fY8) |
+| Neil Postman | Amusing Ourselves to Death | [Amazon](https://amzn.to/4cYlMg6) |
+| Hank Green | An Absolutely Remarkable Thing | [Amazon](https://amzn.to/3TiZmiH) |
+| Will Larson | An Elegant Puzzle | [Amazon](https://amzn.to/3zcal6F) |
+| Gerald Weinberg | An Introduction to General Systems Thinking | [Amazon](https://amzn.to/3TmdXKa) |
+| Daniela Witten | An Introduction to Statistical Learning | [Amazon](https://amzn.to/4cVoSkR) |
+| Robert Tibshirani | An Introduction to Statistical Learning | [Amazon](https://amzn.to/3XhCTDH) |
+| Gareth James | An Introduction to Statistical Learning | [Amazon](https://amzn.to/4glxh3U) |
+| Trevor Hastie | An Introduction to Statistical Learning | [Amazon](https://amzn.to/4ef9XTR) |
+| Neal Stephenson | Anathem | [Amazon](https://amzn.to/4cZeatF) |
+| Ann Leckie | Ancillary Justice | [Amazon](https://amzn.to/4gccjEV) |
+| George Orwell | Animal Farm | [Amazon](https://amzn.to/4gxbMxx) |
+| Leo Tolstoy | Anna Karenina | [Amazon](https://amzn.to/3B9BcRe) |
+| Ayn Rand | Anthem | [Amazon](https://amzn.to/4ekNt3T) |
+| Nassim Nicholas Taleb | Antifragile | [Amazon](https://amzn.to/3AQBFaX) |
+| Derek Sivers | Anything You Want | [Amazon](https://amzn.to/3MG1cq6) |
+| Plato | Apology | [Amazon](https://amzn.to/4ed3jNM) |
+| Bruce Schneier | Applied Cryptography | [Amazon](https://amzn.to/3MFFoLq) |
+| Ernest Cline | Armada | [Amazon](https://amzn.to/4ed3fxw) |
+| Ted Orland | Art and Fear | [Amazon](https://amzn.to/4egbdGm) |
+| David Bayles | Art and Fear | [Amazon](https://amzn.to/4eg8HQl) |
+| Andy Weir | Artemis | [Amazon](https://amzn.to/3zdrTzc) |
+| Stuart Russell | Artificial Intelligence | [Amazon](https://amzn.to/3AUECqZ) |
+| Peter Norvig | Artificial Intelligence | [Amazon](https://amzn.to/3MCRdlh) |
+| Bill Bryson | At Home | [Amazon](https://amzn.to/4eeQxhQ) |
+| Ayn Rand | Atlas Shrugged | [Amazon](https://amzn.to/4ejDa02) |
+| James Clear | Atomic Habits | [Amazon](https://amzn.to/3AUExnb) |
+| Paramahansa Yogananda | Autobiography of a Yogi | [Amazon](https://amzn.to/3zgzAVp) |
+| Al Sweigart | Automate the Boring Stuff with Python | [Amazon](https://amzn.to/3Tpi9sx) |
+| Tony Robbins | Awaken the Giant Within | [Amazon](https://amzn.to/4ed3tVo) |
+| Anthony DeMello | Awareness | [Amazon](https://amzn.to/3TmJVGg) |
+| John Carreyrou | Bad Blood | [Amazon](https://amzn.to/3AWya2N) |
+| Thomas Sowell | Basic Economics | [Amazon](https://amzn.to/4gjfjPx) |
+| James M. McPherson | Battle Cry of Freedom | [Amazon](https://amzn.to/4glzf4k) |
+| Ram Dass | Be Here Now | [Amazon](https://amzn.to/3ARHQeU) |
+| Gerald Weinberg | Becoming a Technical Leader | [Amazon](https://amzn.to/4glzoEU) |
+| Robert Sapolsky | Behave | [Amazon](https://amzn.to/3AYQxEi) |
+| Martin Heidegger | Being and Time | [Amazon](https://amzn.to/4gmdCRt) |
+| Atul Gawande | Being Mortal | [Amazon](https://amzn.to/3AVneT8) |
+| Ta-Nehisi Coates | Between the World and Me | [Amazon](https://amzn.to/4dVUQyG) |
+| Friedrich Nietzsche | Beyond Good and Evil | [Amazon](https://amzn.to/3AYqJrW) |
+| Vyasa | Bhagavad Gita | [Amazon](https://amzn.to/3TmsDZO) |
+| Nathan Marz | Big Data | [Amazon](https://amzn.to/3ToppF0) |
+| Anne Lamott | Bird by Bird | [Amazon](https://amzn.to/4dYKePK) |
+| Peter Watts | Blindsight | [Amazon](https://amzn.to/3AYQAQu) |
+| Malcolm Gladwell | Blink | [Amazon](https://amzn.to/4gib72y) |
+| Cormac McCarthy | Blood Meridian | [Amazon](https://amzn.to/4d7L6k0) |
+| Renée Mauborgne | Blue Ocean Strategy | [Amazon](https://amzn.to/4d1ZD0u) |
+| W. Chan Kim | Blue Ocean Strategy | [Amazon](https://amzn.to/4dVBKsz) |
+| Richard Hammack | Book of Proof | [Amazon](https://amzn.to/4d5vwoO) |
+| Trevor Noah | Born a Crime | [Amazon](https://amzn.to/4dWy5Lh) |
+| Christopher McDougall | Born to Run | [Amazon](https://amzn.to/4dV56Yd) |
+| Robert Coram | Boyd | [Amazon](https://amzn.to/4dX63iv) |
+| John Medina | Brain Rules | [Amazon](https://amzn.to/3MBFkMu) |
+| Aldous Huxley | Brave New World | [Amazon](https://amzn.to/3MBFl30) |
+| Kurt Vonnegut | Breakfast of Champions | [Amazon](https://amzn.to/4cTV6gs) |
+| Roger Lowenstein | Buffett | [Amazon](https://amzn.to/3zctFRc) |
+| John Warrillow | Built to Sell | [Amazon](https://amzn.to/3Zmd4Fd) |
+| David Graeber | Bullshit Jobs | [Amazon](https://amzn.to/4cYlZzU) |
+| Alexander Osterwalder | Business Model Generation | [Amazon](https://amzn.to/47mumUK) |
+| Yves Pigneur | Business Model Generation | [Amazon](https://amzn.to/47BwZlT) |
+| David R. Hanson | C Interfaces and Implementations | [Amazon](https://amzn.to/3z2vDUl) |
+| Michael Spivak | Calculus | [Amazon](https://amzn.to/47jacuQ) |
+| Silvanus P. Thompson | Calculus Made Easy | [Amazon](https://amzn.to/3B9BkjG) |
+| Michael Spivak | Calculus on Manifolds | [Amazon](https://amzn.to/3Zmd73R) |
+| Bill Watterson | Calvin and Hobbes | [Amazon](https://amzn.to/3MDz4nr) |
+| David Goggins | Can't Hurt Me | [Amazon](https://amzn.to/47sxbUf) |
+| Voltaire | Candide | [Amazon](https://amzn.to/4cVp17T) |
+| John Steinbeck | Cannery Row | [Amazon](https://amzn.to/3ZpnqEa) |
+| Karl Marx | Capital | [Amazon](https://amzn.to/3zefgnK) |
+| Thomas Piketty | Capital in the Twenty-First Century | [Amazon](https://amzn.to/3MDV8OR) |
+| Milton Friedman | Capitalism and Freedom | [Amazon](https://amzn.to/47nMYnu) |
+| Kurt Vonnegut | Cat's Cradle | [Amazon](https://amzn.to/3zefjjq) |
+| Joseph Heller | Catch-22 | [Amazon](https://amzn.to/47m8CZ9) |
+| James Gleick | Chaos | [Amazon](https://amzn.to/4dUr7q9) |
+| Antonio García Martínez | Chaos Monkeys | [Amazon](https://amzn.to/3MFW7ya) |
+| Frank Herbert | Chapterhouse | [Amazon](https://amzn.to/3XBCb5x) |
+| Johann Hari | Chasing the Scream | [Amazon](https://amzn.to/3MCRBAf) |
+| Arthur C. Clarke | Childhood's End | [Amazon](https://amzn.to/47htD7f) |
+| Frank Herbert | Children of Dune | [Amazon](https://amzn.to/4gxbXJd) |
+| Adrian Tchaikovsky | Children of Time | [Amazon](https://amzn.to/47kSfvM) |
+| Chris Miller | Chip War | [Amazon](https://amzn.to/4glxrIy) |
+| James Altucher | Choose Yourself | [Amazon](https://amzn.to/47lwdco) |
+| Robert C. Martin | Clean Architecture | [Amazon](https://amzn.to/47jpbVo) |
+| David Mitchell | Cloud Atlas | [Amazon](https://amzn.to/4e1OY7q) |
+| Charles Petzold | Code | [Amazon](https://amzn.to/4gks3pm) |
 | Steve McConnell | Code Complete | [Amazon](https://www.amazon.com/s?k=Steve%20McConnell+Code%20Complete) |
 | Peter Seibel | Coders at Work | [Amazon](https://www.amazon.com/s?k=Peter%20Seibel+Coders%20at%20Work) |
 | Jared Diamond | Collapse | [Amazon](https://www.amazon.com/s?k=Jared%20Diamond+Collapse) |
