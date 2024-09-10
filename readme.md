@@ -226,59 +226,59 @@ I may receive a commission from purchases made via these URLs.
 | Sheila Heen | Difficult Conversations | [Amazon](https://amzn.to/3ThTHsX) |
 | Douglas Stone | Difficult Conversations | [Amazon](https://amzn.to/3TmYGZM) |
 | Bruce Patton | Difficult Conversations | [Amazon](https://amzn.to/3ZiNMYx) |
-| Cal Newport | Digital Minimalism | [Amazon](https://www.amazon.com/s?k=Cal%20Newport+Digital%20Minimalism) |
-| Douglas Adams | Dirk Gently's Holistic Detective Agency | [Amazon](https://www.amazon.com/s?k=Douglas%20Adams+Dirk%20Gently's%20Holistic%20Detective%20Agency) |
-| Epictetus | Discourses | [Amazon](https://www.amazon.com/s?k=Epictetus+Discourses) |
-| Richard Epp | Discrete Mathematics | [Amazon](https://www.amazon.com/s?k=Richard%20Epp+Discrete%20Mathematics) |
-| Kenneth H. Rosen | Discrete Mathematics and Its Applications | [Amazon](https://www.amazon.com/s?k=Kenneth%20H.%20Rosen+Discrete%20Mathematics%20and%20Its%20Applications) |
-| Susanna Epp | Discrete Mathematics with Applications | [Amazon](https://www.amazon.com/s?k=Susanna%20Epp+Discrete%20Mathematics%20with%20Applications) |
-| Terry Pratchett | Discworld | [Amazon](https://www.amazon.com/s?k=Terry%20Pratchett+Discworld) |
-| Terry Pratchett | Discworld Series | [Amazon](https://www.amazon.com/s?k=Terry%20Pratchett+Discworld%20Series) |
-| Dan Lyons | Disrupted | [Amazon](https://www.amazon.com/s?k=Dan%20Lyons+Disrupted) |
-| Andrew S. Tanenbaum | Distributed Systems | [Amazon](https://www.amazon.com/s?k=Andrew%20S.%20Tanenbaum+Distributed%20Systems) |
-| Philip K. Dick | Do Androids Dream of Electric Sheep? | [Amazon](https://www.amazon.com/s?k=Philip%20K.%20Dick+Do%20Androids%20Dream%20of%20Electric%20Sheep%3F) |
-| Scott Wlaschin | Domain Modeling Made Functional | [Amazon](https://www.amazon.com/s?k=Scott%20Wlaschin+Domain%20Modeling%20Made%20Functional) |
-| Eric Evans | Domain-Driven Design | [Amazon](https://www.amazon.com/s?k=Eric%20Evans+Domain-Driven%20Design) |
-| Miguel de Cervantes | Don Quixote | [Amazon](https://www.amazon.com/s?k=Miguel%20de%20Cervantes+Don%20Quixote) |
-| Steve Krug | Don't Make Me Think | [Amazon](https://www.amazon.com/s?k=Steve%20Krug+Don't%20Make%20Me%20Think) |
-| Betty Edwards | Drawing on the Right Side of the Brain | [Amazon](https://www.amazon.com/s?k=Betty%20Edwards+Drawing%20on%20the%20Right%20Side%20of%20the%20Brain) |
-| Scott Rosenberg | Dreaming in Code | [Amazon](https://www.amazon.com/s?k=Scott%20Rosenberg+Dreaming%20in%20Code) |
-| Daniel H. Pink | Drive | [Amazon](https://www.amazon.com/s?k=Daniel%20H.%20Pink+Drive) |
-| Frank Herbert | Dune | [Amazon](https://www.amazon.com/s?k=Frank%20Herbert+Dune) |
-| Frank Herbert | Dune Messiah | [Amazon](https://www.amazon.com/s?k=Frank%20Herbert+Dune%20Messiah) |
-| John Steinbeck | East of Eden | [Amazon](https://www.amazon.com/s?k=John%20Steinbeck+East%20of%20Eden) |
-| Brian Tracy | Eat That Frog! | [Amazon](https://www.amazon.com/s?k=Brian%20Tracy+Eat%20That%20Frog!) |
-| Paul Samuelson | Economics | [Amazon](https://www.amazon.com/s?k=Paul%20Samuelson+Economics) |
-| Henry Hazlitt | Economics in One Lesson | [Amazon](https://www.amazon.com/s?k=Henry%20Hazlitt+Economics%20in%20One%20Lesson) |
-| Tara Westover | Educated | [Amazon](https://www.amazon.com/s?k=Tara%20Westover+Educated) |
-| Scott Meyers | Effective C++ | [Amazon](https://www.amazon.com/s?k=Scott%20Meyers+Effective%20C%2B%2B) |
-| Joshua Bloch | Effective Java | [Amazon](https://www.amazon.com/s?k=Joshua%20Bloch+Effective%20Java) |
-| David Herman | Effective JavaScript | [Amazon](https://www.amazon.com/s?k=David%20Herman+Effective%20JavaScript) |
-| Scott Meyers | Effective Modern C++ | [Amazon](https://www.amazon.com/s?k=Scott%20Meyers+Effective%20Modern%20C%2B%2B) |
-| Brett Slatkin | Effective Python | [Amazon](https://www.amazon.com/s?k=Brett%20Slatkin+Effective%20Python) |
-| Ryan Holiday | Ego is the Enemy | [Amazon](https://www.amazon.com/s?k=Ryan%20Holiday+Ego%20is%20the%20Enemy) |
-| Walter Isaacson | Einstein | [Amazon](https://www.amazon.com/s?k=Walter%20Isaacson+Einstein) |
-| Alan Lightman | Einstein's Dreams | [Amazon](https://www.amazon.com/s?k=Alan%20Lightman+Einstein's%20Dreams) |
-| Søren Kierkegaard | Either/Or | [Amazon](https://www.amazon.com/s?k=S%C3%B8ren%20Kierkegaard+Either%2FOr) |
-| Euclid | Elements | [Amazon](https://www.amazon.com/s?k=Euclid+Elements) |
-| Ashlee Vance | Elon Musk | [Amazon](https://www.amazon.com/s?k=Ashlee%20Vance+Elon%20Musk) |
-| Marijn Haverbeke | Eloquent JavaScript | [Amazon](https://www.amazon.com/s?k=Marijn%20Haverbeke+Eloquent%20JavaScript) |
-| Daniel Goleman | Emotional Intelligence | [Amazon](https://www.amazon.com/s?k=Daniel%20Goleman+Emotional%20Intelligence) |
-| Orson Scott Card | Ender's Game | [Amazon](https://www.amazon.com/s?k=Orson%20Scott%20Card+Ender's%20Game) |
-| Orson Scott Card | Ender's Shadow | [Amazon](https://www.amazon.com/s?k=Orson%20Scott%20Card+Ender's%20Shadow) |
-| Alfred Lansing | Endurance | [Amazon](https://www.amazon.com/s?k=Alfred%20Lansing+Endurance) |
-| Dan Simmons | Endymion | [Amazon](https://www.amazon.com/s?k=Dan%20Simmons+Endymion) |
-| Steven Pinker | Enlightenment Now | [Amazon](https://www.amazon.com/s?k=Steven%20Pinker+Enlightenment%20Now) |
-| Michel de Montaigne | Essays | [Amazon](https://www.amazon.com/s?k=Michel%20de%20Montaigne+Essays) |
-| Greg McKeown | Essentialism | [Amazon](https://www.amazon.com/s?k=Greg%20McKeown+Essentialism) |
-| Matthew Desmond | Evicted | [Amazon](https://www.amazon.com/s?k=Matthew%20Desmond+Evicted) |
-| Iain M. Banks | Excession | [Amazon](https://www.amazon.com/s?k=Iain%20M.%20Banks+Excession) |
-| Ted Chiang | Exhalation | [Amazon](https://www.amazon.com/s?k=Ted%20Chiang+Exhalation) |
-| Peter van der Linden | Expert C Programming | [Amazon](https://www.amazon.com/s?k=Peter%20van%20der%20Linden+Expert%20C%20Programming) |
-| Phil Lapsley | Exploding the Phone | [Amazon](https://www.amazon.com/s?k=Phil%20Lapsley+Exploding%20the%20Phone) |
-| Jocko Willink | Extreme Ownership | [Amazon](https://www.amazon.com/s?k=Jocko%20Willink+Extreme%20Ownership) |
-| Leif Babin | Extreme Ownership | [Amazon](https://www.amazon.com/s?k=Leif%20Babin+Extreme%20Ownership) |
-| Hans Rosling | Factfulness | [Amazon](https://www.amazon.com/s?k=Hans%20Rosling+Factfulness) |
+| Cal Newport | Digital Minimalism | [Amazon](https://amzn.to/3XihtXg) |
+| Douglas Adams | Dirk Gently's Holistic Detective Agency | [Amazon](https://amzn.to/4d2f9cu) |
+| Epictetus | Discourses | [Amazon](https://amzn.to/3ZiNNM5) |
+| Richard Epp | Discrete Mathematics | [Amazon](https://amzn.to/3Ze7hBF) |
+| Kenneth H. Rosen | Discrete Mathematics and Its Applications | [Amazon](https://amzn.to/3XD25WP) |
+| Susanna Epp | Discrete Mathematics with Applications | [Amazon](https://amzn.to/3Xnw6IG) |
+| Terry Pratchett | Discworld | [Amazon](https://amzn.to/3ZpnLXs) |
+| Terry Pratchett | Discworld Series | [Amazon](https://amzn.to/3XDGyNq) |
+| Dan Lyons | Disrupted | [Amazon](https://amzn.to/3z2w4Ot) |
+| Andrew S. Tanenbaum | Distributed Systems | [Amazon](https://amzn.to/3XAjJdK) |
+| Philip K. Dick | Do Androids Dream of Electric Sheep? | [Amazon](https://amzn.to/3ZjO2qu) |
+| Scott Wlaschin | Domain Modeling Made Functional | [Amazon](https://amzn.to/3XihzOC) |
+| Eric Evans | Domain-Driven Design | [Amazon](https://amzn.to/3z2FfOX) |
+| Miguel de Cervantes | Don Quixote | [Amazon](https://amzn.to/3XzdUx8) |
+| Steve Krug | Don't Make Me Think | [Amazon](https://amzn.to/3XEZSJl) |
+| Betty Edwards | Drawing on the Right Side of the Brain | [Amazon](https://amzn.to/4ehp1A6) |
+| Scott Rosenberg | Dreaming in Code | [Amazon](https://amzn.to/3ThTIx1) |
+| Daniel H. Pink | Drive | [Amazon](https://amzn.to/3XmMXey) |
+| Frank Herbert | Dune | [Amazon](https://amzn.to/3TnX81t) |
+| Frank Herbert | Dune Messiah | [Amazon](https://amzn.to/4ehGMiV) |
+| John Steinbeck | East of Eden | [Amazon](https://amzn.to/3TnIaIC) |
+| Brian Tracy | Eat That Frog! | [Amazon](https://amzn.to/3zdGef6) |
+| Paul Samuelson | Economics | [Amazon](https://amzn.to/3XzstRl) |
+| Henry Hazlitt | Economics in One Lesson | [Amazon](https://amzn.to/3TkSUHK) |
+| Tara Westover | Educated | [Amazon](https://amzn.to/4ejDr34) |
+| Scott Meyers | Effective C++ | [Amazon](https://amzn.to/3XyiITn) |
+| Joshua Bloch | Effective Java | [Amazon](https://amzn.to/4egbwB0) |
+| David Herman | Effective JavaScript | [Amazon](https://amzn.to/3XmYTNs) |
+| Scott Meyers | Effective Modern C++ | [Amazon](https://amzn.to/4edw7FZ) |
+| Brett Slatkin | Effective Python | [Amazon](https://amzn.to/3ThTNRl) |
+| Ryan Holiday | Ego is the Enemy | [Amazon](https://amzn.to/3TrdcPZ) |
+| Walter Isaacson | Einstein | [Amazon](https://amzn.to/3XMWMUV) |
+| Alan Lightman | Einstein's Dreams | [Amazon](https://amzn.to/3TjJz32) |
+| Søren Kierkegaard | Either/Or | [Amazon](https://amzn.to/3XMWQ77) |
+| Euclid | Elements | [Amazon](https://amzn.to/3XF0jTZ) |
+| Ashlee Vance | Elon Musk | [Amazon](https://amzn.to/3zkucAw) |
+| Marijn Haverbeke | Eloquent JavaScript | [Amazon](https://amzn.to/3zlcYmz) |
+| Daniel Goleman | Emotional Intelligence | [Amazon](https://amzn.to/3XiNf6f) |
+| Orson Scott Card | Ender's Game | [Amazon](https://amzn.to/3XAdnuR) |
+| Orson Scott Card | Ender's Shadow | [Amazon](https://amzn.to/4cXIGnN) |
+| Alfred Lansing | Endurance | [Amazon](https://amzn.to/3XCQqqQ) |
+| Dan Simmons | Endymion | [Amazon](https://amzn.to/4gccWyh) |
+| Steven Pinker | Enlightenment Now | [Amazon](https://amzn.to/4gkmKWJ) |
+| Michel de Montaigne | Essays | [Amazon](https://amzn.to/3XjZrnl) |
+| Greg McKeown | Essentialism | [Amazon](https://amzn.to/3Xnwln4) |
+| Matthew Desmond | Evicted | [Amazon](https://amzn.to/3XcdGus) |
+| Iain M. Banks | Excession | [Amazon](https://amzn.to/4dg3RBT) |
+| Ted Chiang | Exhalation | [Amazon](https://amzn.to/3B6KpK5) |
+| Peter van der Linden | Expert C Programming | [Amazon](https://amzn.to/3TiZQW8) |
+| Phil Lapsley | Exploding the Phone | [Amazon](https://amzn.to/4cZT7Hi) |
+| Jocko Willink | Extreme Ownership | [Amazon](https://amzn.to/4edwal9) |
+| Leif Babin | Extreme Ownership | [Amazon](https://amzn.to/3MDVKnD) |
+| Hans Rosling | Factfulness | [Amazon](https://amzn.to/4ekQrFD) |
 | Robert L. Glass | Facts and Fallacies of Software Engineering | [Amazon](https://www.amazon.com/s?k=Robert%20L.%20Glass+Facts%20and%20Fallacies%20of%20Software%20Engineering) |
 | Ray Bradbury | Fahrenheit 451 | [Amazon](https://www.amazon.com/s?k=Ray%20Bradbury+Fahrenheit%20451) |
 | Johann Wolfgang von Goethe | Faust | [Amazon](https://www.amazon.com/s?k=Johann%20Wolfgang%20von%20Goethe+Faust) |
