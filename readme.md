@@ -197,35 +197,35 @@ I may receive a commission from purchases made via these URLs.
 | Kerry Patterson | Crucial Conversations | [Amazon](https://amzn.to/4ggDyxX) |
 | Al Switzler | Crucial Conversations | [Amazon](https://amzn.to/3ZijBRj) |
 | Joseph Grenny | Crucial Conversations | [Amazon](https://amzn.to/4d2rkX1) |
-| Neal Stephenson | Cryptonomicon | [Amazon](https://www.amazon.com/s?k=Neal%20Stephenson+Cryptonomicon) |
-| Eric A. Meyer | CSS | [Amazon](https://www.amazon.com/s?k=Eric%20A.%20Meyer+CSS) |
-| Estelle Weyl | CSS | [Amazon](https://www.amazon.com/s?k=Estelle%20Weyl+CSS) |
-| Daniel Suarez | Daemon | [Amazon](https://www.amazon.com/s?k=Daniel%20Suarez+Daemon) |
-| Brené Brown | Dare to Lead | [Amazon](https://www.amazon.com/s?k=Bren%C3%A9%20Brown+Dare%20to%20Lead) |
-| Brené Brown | Daring Greatly | [Amazon](https://www.amazon.com/s?k=Bren%C3%A9%20Brown+Daring%20Greatly) |
-| Blake Crouch | Dark Matter | [Amazon](https://www.amazon.com/s?k=Blake%20Crouch+Dark%20Matter) |
-| Daniel Dennett | Darwin's Dangerous Idea | [Amazon](https://www.amazon.com/s?k=Daniel%20Dennett+Darwin's%20Dangerous%20Idea) |
-| Karl Marx | Das Kapital | [Amazon](https://www.amazon.com/s?k=Karl%20Marx+Das%20Kapital) |
-| Alex Petrov | Database Internals | [Amazon](https://www.amazon.com/s?k=Alex%20Petrov+Database%20Internals) |
-| Edward Yourdon | Death March | [Amazon](https://www.amazon.com/s?k=Edward%20Yourdon+Death%20March) |
-| Liu Cixin | Death's End | [Amazon](https://www.amazon.com/s?k=Liu%20Cixin+Death's%20End) |
-| David Graeber | Debt | [Amazon](https://www.amazon.com/s?k=David%20Graeber+Debt) |
-| Yoshua Bengio | Deep Learning | [Amazon](https://www.amazon.com/s?k=Yoshua%20Bengio+Deep%20Learning) |
-| Aaron Courville | Deep Learning | [Amazon](https://www.amazon.com/s?k=Aaron%20Courville+Deep%20Learning) |
-| Ian Goodfellow | Deep Learning | [Amazon](https://www.amazon.com/s?k=Ian%20Goodfellow+Deep%20Learning) |
-| Cal Newport | Deep Work | [Amazon](https://www.amazon.com/s?k=Cal%20Newport+Deep%20Work) |
-| Tony Hsieh | Delivering Happiness | [Amazon](https://www.amazon.com/s?k=Tony%20Hsieh+Delivering%20Happiness) |
-| David Kadavy | Design for Hackers | [Amazon](https://www.amazon.com/s?k=David%20Kadavy+Design%20for%20Hackers) |
-| Ralph Johnson | Design Patterns | [Amazon](https://www.amazon.com/s?k=Ralph%20Johnson+Design%20Patterns) |
-| Richard Helm | Design Patterns | [Amazon](https://www.amazon.com/s?k=Richard%20Helm+Design%20Patterns) |
-| John Vlissides | Design Patterns | [Amazon](https://www.amazon.com/s?k=John%20Vlissides+Design%20Patterns) |
-| Erich Gamma | Design Patterns | [Amazon](https://www.amazon.com/s?k=Erich%20Gamma+Design%20Patterns) |
-| Martin Kleppmann | Designing Data-Intensive Applications | [Amazon](https://www.amazon.com/s?k=Martin%20Kleppmann+Designing%20Data-Intensive%20Applications) |
-| Unknown | Dhammapada | [Amazon](https://www.amazon.com/s?k=Unknown+Dhammapada) |
-| Greg Egan | Diaspora | [Amazon](https://www.amazon.com/s?k=Greg%20Egan+Diaspora) |
-| Sheila Heen | Difficult Conversations | [Amazon](https://www.amazon.com/s?k=Sheila%20Heen+Difficult%20Conversations) |
-| Douglas Stone | Difficult Conversations | [Amazon](https://www.amazon.com/s?k=Douglas%20Stone+Difficult%20Conversations) |
-| Bruce Patton | Difficult Conversations | [Amazon](https://www.amazon.com/s?k=Bruce%20Patton+Difficult%20Conversations) |
+| Neal Stephenson | Cryptonomicon | [Amazon](https://amzn.to/3XgkEyF) |
+| Eric A. Meyer | CSS | [Amazon](https://amzn.to/4cZ3NGg) |
+| Estelle Weyl | CSS | [Amazon](https://amzn.to/3XcfeEA) |
+| Daniel Suarez | Daemon | [Amazon](https://amzn.to/3AVnul4) |
+| Brené Brown | Dare to Lead | [Amazon](https://amzn.to/3zlcCML) |
+| Brené Brown | Daring Greatly | [Amazon](https://amzn.to/3Zmdw6n) |
+| Blake Crouch | Dark Matter | [Amazon](https://amzn.to/3z2vY9z) |
+| Daniel Dennett | Darwin's Dangerous Idea | [Amazon](https://amzn.to/3TrcYbB) |
+| Karl Marx | Das Kapital | [Amazon](https://amzn.to/3TlTwwS) |
+| Alex Petrov | Database Internals | [Amazon](https://amzn.to/3ToOK1B) |
+| Edward Yourdon | Death March | [Amazon](https://amzn.to/3TmsGEY) |
+| Liu Cixin | Death's End | [Amazon](https://amzn.to/3AUKqkp) |
+| David Graeber | Debt | [Amazon](https://amzn.to/3TmCdf6) |
+| Yoshua Bengio | Deep Learning | [Amazon](https://amzn.to/4e1NLwH) |
+| Aaron Courville | Deep Learning | [Amazon](https://amzn.to/4cYqQB9) |
+| Ian Goodfellow | Deep Learning | [Amazon](https://amzn.to/3XcflQw) |
+| Cal Newport | Deep Work | [Amazon](https://amzn.to/3ZjJpMN) |
+| Tony Hsieh | Delivering Happiness | [Amazon](https://amzn.to/4d5tvZD) |
+| David Kadavy | Design for Hackers | [Amazon](https://amzn.to/3TnjsYV) |
+| Ralph Johnson | Design Patterns | [Amazon](https://amzn.to/3XmlqKw) |
+| Richard Helm | Design Patterns | [Amazon](https://amzn.to/3XrmuNk) |
+| John Vlissides | Design Patterns | [Amazon](https://amzn.to/3XB56qo) |
+| Erich Gamma | Design Patterns | [Amazon](https://amzn.to/3B8CTOT) |
+| Martin Kleppmann | Designing Data-Intensive Applications | [Amazon](https://amzn.to/3ZeOuWV) |
+| Unknown | Dhammapada | [Amazon](https://amzn.to/3B9BA28) |
+| Greg Egan | Diaspora | [Amazon](https://amzn.to/3XCjsa6) |
+| Sheila Heen | Difficult Conversations | [Amazon](https://amzn.to/3ThTHsX) |
+| Douglas Stone | Difficult Conversations | [Amazon](https://amzn.to/3TmYGZM) |
+| Bruce Patton | Difficult Conversations | [Amazon](https://amzn.to/3ZiNMYx) |
 | Cal Newport | Digital Minimalism | [Amazon](https://www.amazon.com/s?k=Cal%20Newport+Digital%20Minimalism) |
 | Douglas Adams | Dirk Gently's Holistic Detective Agency | [Amazon](https://www.amazon.com/s?k=Douglas%20Adams+Dirk%20Gently's%20Holistic%20Detective%20Agency) |
 | Epictetus | Discourses | [Amazon](https://www.amazon.com/s?k=Epictetus+Discourses) |
