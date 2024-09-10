@@ -155,48 +155,48 @@ I may receive a commission from purchases made via these URLs.
 | Robert C. Martin | Clean Architecture | [Amazon](https://amzn.to/47jpbVo) |
 | David Mitchell | Cloud Atlas | [Amazon](https://amzn.to/4e1OY7q) |
 | Charles Petzold | Code | [Amazon](https://amzn.to/4gks3pm) |
-| Steve McConnell | Code Complete | [Amazon](https://www.amazon.com/s?k=Steve%20McConnell+Code%20Complete) |
-| Peter Seibel | Coders at Work | [Amazon](https://www.amazon.com/s?k=Peter%20Seibel+Coders%20at%20Work) |
-| Jared Diamond | Collapse | [Amazon](https://www.amazon.com/s?k=Jared%20Diamond+Collapse) |
-| Jorge Luis Borges | Collected Fictions | [Amazon](https://www.amazon.com/s?k=Jorge%20Luis%20Borges+Collected%20Fictions) |
-| Haruki Murakami | Colorless Tsukuru Tazaki and His Years of Pilgrimage | [Amazon](https://www.amazon.com/s?k=Haruki%20Murakami+Colorless%20Tsukuru%20Tazaki%20and%20His%20Years%20of%20Pilgrimage) |
-| Philip A. Fisher | Common Stocks and Uncommon Profits | [Amazon](https://www.amazon.com/s?k=Philip%20A.%20Fisher+Common%20Stocks%20and%20Uncommon%20Profits) |
-| Jeffrey D. Ullman | Compilers | [Amazon](https://www.amazon.com/s?k=Jeffrey%20D.%20Ullman+Compilers) |
-| Alfred V. Aho | Compilers | [Amazon](https://www.amazon.com/s?k=Alfred%20V.%20Aho+Compilers) |
-| Monica S. Lam | Compilers | [Amazon](https://www.amazon.com/s?k=Monica%20S.%20Lam+Compilers) |
-| Ravi Sethi | Compilers | [Amazon](https://www.amazon.com/s?k=Ravi%20Sethi+Compilers) |
-| Melanie Mitchell | Complexity | [Amazon](https://www.amazon.com/s?k=Melanie%20Mitchell+Complexity) |
-| David A. Patterson | Computer Architecture | [Amazon](https://www.amazon.com/s?k=David%20A.%20Patterson+Computer%20Architecture) |
-| John L. Hennessy | Computer Architecture | [Amazon](https://www.amazon.com/s?k=John%20L.%20Hennessy+Computer%20Architecture) |
-| Keith Ross | Computer Networking | [Amazon](https://www.amazon.com/s?k=Keith%20Ross+Computer%20Networking) |
-| James Kurose | Computer Networking | [Amazon](https://www.amazon.com/s?k=James%20Kurose+Computer%20Networking) |
-| Andrew S. Tanenbaum | Computer Networks | [Amazon](https://www.amazon.com/s?k=Andrew%20S.%20Tanenbaum+Computer%20Networks) |
-| Randal E. Bryant | Computer Systems | [Amazon](https://www.amazon.com/s?k=Randal%20E.%20Bryant+Computer%20Systems) |
-| David R. O'Hallaron | Computer Systems | [Amazon](https://www.amazon.com/s?k=David%20R.%20O'Hallaron+Computer%20Systems) |
-| Peter Van Roy | Concepts, Techniques, and Models of Computer Programming | [Amazon](https://www.amazon.com/s?k=Peter%20Van%20Roy+Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming) |
-| Seif Haridi | Concepts, Techniques, and Models of Computer Programming | [Amazon](https://www.amazon.com/s?k=Seif%20Haridi+Concepts%2C%20Techniques%2C%20and%20Models%20of%20Computer%20Programming) |
-| F. William Lawvere | Conceptual Mathematics | [Amazon](https://www.amazon.com/s?k=F.%20William%20Lawvere+Conceptual%20Mathematics) |
-| Stephen Hoel Schanuel | Conceptual Mathematics | [Amazon](https://www.amazon.com/s?k=Stephen%20Hoel%20Schanuel+Conceptual%20Mathematics) |
-| Oren Patashnik | Concrete Mathematics | [Amazon](https://www.amazon.com/s?k=Oren%20Patashnik+Concrete%20Mathematics) |
-| Ronald L. Graham | Concrete Mathematics | [Amazon](https://www.amazon.com/s?k=Ronald%20L.%20Graham+Concrete%20Mathematics) |
-| Donald E. Knuth | Concrete Mathematics | [Amazon](https://www.amazon.com/s?k=Donald%20E.%20Knuth+Concrete%20Mathematics) |
-| Saint Augustine | Confessions | [Amazon](https://www.amazon.com/s?k=Saint%20Augustine+Confessions) |
-| John Perkins | Confessions of an Economic Hit Man | [Amazon](https://www.amazon.com/s?k=John%20Perkins+Confessions%20of%20an%20Economic%20Hit%20Man) |
-| Iain M. Banks | Consider Phlebas | [Amazon](https://www.amazon.com/s?k=Iain%20M.%20Banks+Consider%20Phlebas) |
-| Jonah Berger | Contagious | [Amazon](https://www.amazon.com/s?k=Jonah%20Berger+Contagious) |
-| Carl Sagan | Cosmos | [Amazon](https://www.amazon.com/s?k=Carl%20Sagan+Cosmos) |
-| Kim Zetter | Countdown to Zero Day | [Amazon](https://www.amazon.com/s?k=Kim%20Zetter+Countdown%20to%20Zero%20Day) |
-| Gayle Laakmann McDowell | Cracking the Coding Interview | [Amazon](https://www.amazon.com/s?k=Gayle%20Laakmann%20McDowell+Cracking%20the%20Coding%20Interview) |
-| Robert Nystrom | Crafting Interpreters | [Amazon](https://www.amazon.com/s?k=Robert%20Nystrom+Crafting%20Interpreters) |
-| Ed Catmull | Creativity, Inc. | [Amazon](https://www.amazon.com/s?k=Ed%20Catmull+Creativity%2C%20Inc.) |
-| Fyodor Dostoevsky | Crime and Punishment | [Amazon](https://www.amazon.com/s?k=Fyodor%20Dostoevsky+Crime%20and%20Punishment) |
-| Eliyahu M. Goldratt | Critical Chain | [Amazon](https://www.amazon.com/s?k=Eliyahu%20M.%20Goldratt+Critical%20Chain) |
-| Immanuel Kant | Critique of Pure Reason | [Amazon](https://www.amazon.com/s?k=Immanuel%20Kant+Critique%20of%20Pure%20Reason) |
-| Geoffrey A. Moore | Crossing the Chasm | [Amazon](https://www.amazon.com/s?k=Geoffrey%20A.%20Moore+Crossing%20the%20Chasm) |
-| Ron McMillan | Crucial Conversations | [Amazon](https://www.amazon.com/s?k=Ron%20McMillan+Crucial%20Conversations) |
-| Kerry Patterson | Crucial Conversations | [Amazon](https://www.amazon.com/s?k=Kerry%20Patterson+Crucial%20Conversations) |
-| Al Switzler | Crucial Conversations | [Amazon](https://www.amazon.com/s?k=Al%20Switzler+Crucial%20Conversations) |
-| Joseph Grenny | Crucial Conversations | [Amazon](https://www.amazon.com/s?k=Joseph%20Grenny+Crucial%20Conversations) |
+| Steve McConnell | Code Complete | [Amazon](https://amzn.to/3MKZALz) |
+| Peter Seibel | Coders at Work | [Amazon](https://amzn.to/3MEZCEX) |
+| Jared Diamond | Collapse | [Amazon](https://amzn.to/3zfwcdn) |
+| Jorge Luis Borges | Collected Fictions | [Amazon](https://amzn.to/3MEaenC) |
+| Haruki Murakami | Colorless Tsukuru Tazaki and His Years of Pilgrimage | [Amazon](https://amzn.to/47jvp7Y) |
+| Philip A. Fisher | Common Stocks and Uncommon Profits | [Amazon](https://amzn.to/3ZiNu3T) |
+| Jeffrey D. Ullman | Compilers | [Amazon](https://amzn.to/3zdsqRI) |
+| Alfred V. Aho | Compilers | [Amazon](https://amzn.to/4glPU7W) |
+| Monica S. Lam | Compilers | [Amazon](https://amzn.to/47knI17) |
+| Ravi Sethi | Compilers | [Amazon](https://amzn.to/4geTwsl) |
+| Melanie Mitchell | Complexity | [Amazon](https://amzn.to/3zcu7im) |
+| David A. Patterson | Computer Architecture | [Amazon](https://amzn.to/4gibfPA) |
+| John L. Hennessy | Computer Architecture | [Amazon](https://amzn.to/4gksdNu) |
+| Keith Ross | Computer Networking | [Amazon](https://amzn.to/3AY6v1y) |
+| James Kurose | Computer Networking | [Amazon](https://amzn.to/3Zk5KtU) |
+| Andrew S. Tanenbaum | Computer Networks | [Amazon](https://amzn.to/3z1OuyV) |
+| Randal E. Bryant | Computer Systems | [Amazon](https://amzn.to/47jU2Bi) |
+| David R. O'Hallaron | Computer Systems | [Amazon](https://amzn.to/3zdhnIf) |
+| Peter Van Roy | Concepts, Techniques, and Models of Computer Programming | [Amazon](https://amzn.to/3MKZGTr) |
+| Seif Haridi | Concepts, Techniques, and Models of Computer Programming | [Amazon](https://amzn.to/3ZcDrxo) |
+| F. William Lawvere | Conceptual Mathematics | [Amazon](https://amzn.to/47hY4dz) |
+| Stephen Hoel Schanuel | Conceptual Mathematics | [Amazon](https://amzn.to/3AU1Nlw) |
+| Oren Patashnik | Concrete Mathematics | [Amazon](https://amzn.to/3ZcDsRY) |
+| Ronald L. Graham | Concrete Mathematics | [Amazon](https://amzn.to/47sxxu3) |
+| Donald E. Knuth | Concrete Mathematics | [Amazon](https://amzn.to/4gkshgc) |
+| Saint Augustine | Confessions | [Amazon](https://amzn.to/47htL6J) |
+| John Perkins | Confessions of an Economic Hit Man | [Amazon](https://amzn.to/3AX196J) |
+| Iain M. Banks | Consider Phlebas | [Amazon](https://amzn.to/3ZjJ4K1) |
+| Jonah Berger | Contagious | [Amazon](https://amzn.to/4ggDaiZ) |
+| Carl Sagan | Cosmos | [Amazon](https://amzn.to/4giOTO0) |
+| Kim Zetter | Countdown to Zero Day | [Amazon](https://amzn.to/3ZgDxnC) |
+| Gayle Laakmann McDowell | Cracking the Coding Interview | [Amazon](https://amzn.to/4cUTiUB) |
+| Robert Nystrom | Crafting Interpreters | [Amazon](https://amzn.to/3B1g0x6) |
+| Ed Catmull | Creativity, Inc. | [Amazon](https://amzn.to/3AX1czr) |
+| Fyodor Dostoevsky | Crime and Punishment | [Amazon](https://amzn.to/4gg4s9f) |
+| Eliyahu M. Goldratt | Critical Chain | [Amazon](https://amzn.to/4d412n4) |
+| Immanuel Kant | Critique of Pure Reason | [Amazon](https://amzn.to/3AYLNyF) |
+| Geoffrey A. Moore | Crossing the Chasm | [Amazon](https://amzn.to/4dWyn4P) |
+| Ron McMillan | Crucial Conversations | [Amazon](https://amzn.to/4e1NCt9) |
+| Kerry Patterson | Crucial Conversations | [Amazon](https://amzn.to/4ggDyxX) |
+| Al Switzler | Crucial Conversations | [Amazon](https://amzn.to/3ZijBRj) |
+| Joseph Grenny | Crucial Conversations | [Amazon](https://amzn.to/4d2rkX1) |
 | Neal Stephenson | Cryptonomicon | [Amazon](https://www.amazon.com/s?k=Neal%20Stephenson+Cryptonomicon) |
 | Eric A. Meyer | CSS | [Amazon](https://www.amazon.com/s?k=Eric%20A.%20Meyer+CSS) |
 | Estelle Weyl | CSS | [Amazon](https://www.amazon.com/s?k=Estelle%20Weyl+CSS) |
