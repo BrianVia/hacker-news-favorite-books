@@ -279,69 +279,69 @@ I may receive a commission from purchases made via these URLs.
 | Jocko Willink | Extreme Ownership | [Amazon](https://amzn.to/4edwal9) |
 | Leif Babin | Extreme Ownership | [Amazon](https://amzn.to/3MDVKnD) |
 | Hans Rosling | Factfulness | [Amazon](https://amzn.to/4ekQrFD) |
-| Robert L. Glass | Facts and Fallacies of Software Engineering | [Amazon](https://www.amazon.com/s?k=Robert%20L.%20Glass+Facts%20and%20Fallacies%20of%20Software%20Engineering) |
-| Ray Bradbury | Fahrenheit 451 | [Amazon](https://www.amazon.com/s?k=Ray%20Bradbury+Fahrenheit%20451) |
-| Johann Wolfgang von Goethe | Faust | [Amazon](https://www.amazon.com/s?k=Johann%20Wolfgang%20von%20Goethe+Faust) |
-| Thich Nhat Hanh | Fear | [Amazon](https://www.amazon.com/s?k=Thich%20Nhat%20Hanh+Fear) |
-| David D. Burns | Feeling Good | [Amazon](https://www.amazon.com/s?k=David%20D.%20Burns+Feeling%20Good) |
-| Simon Singh | Fermat's Enigma | [Amazon](https://www.amazon.com/s?k=Simon%20Singh+Fermat's%20Enigma) |
-| Simon Singh | Fermat's Last Theorem | [Amazon](https://www.amazon.com/s?k=Simon%20Singh+Fermat's%20Last%20Theorem) |
-| Jorge Luis Borges | Ficciones | [Amazon](https://www.amazon.com/s?k=Jorge%20Luis%20Borges+Ficciones) |
-| Mihaly Csikszentmihalyi | Finding Flow | [Amazon](https://www.amazon.com/s?k=Mihaly%20Csikszentmihalyi+Finding%20Flow) |
-| James P. Carse | Finite and Infinite Games | [Amazon](https://www.amazon.com/s?k=James%20P.%20Carse+Finite%20and%20Infinite%20Games) |
-| James Joyce | Finnegans Wake | [Amazon](https://www.amazon.com/s?k=James%20Joyce+Finnegans%20Wake) |
-| Marcus Buckingham | First, Break All the Rules | [Amazon](https://www.amazon.com/s?k=Marcus%20Buckingham+First%2C%20Break%20All%20the%20Rules) |
-| Curt Coffman | First, Break All the Rules | [Amazon](https://www.amazon.com/s?k=Curt%20Coffman+First%2C%20Break%20All%20the%20Rules) |
-| Michael Lewis | Flash Boys | [Amazon](https://www.amazon.com/s?k=Michael%20Lewis+Flash%20Boys) |
-| Edwin A. Abbott | Flatland | [Amazon](https://www.amazon.com/s?k=Edwin%20A.%20Abbott+Flatland) |
-| Mihaly Csikszentmihalyi | Flow | [Amazon](https://www.amazon.com/s?k=Mihaly%20Csikszentmihalyi+Flow) |
-| Daniel Keyes | Flowers for Algernon | [Amazon](https://www.amazon.com/s?k=Daniel%20Keyes+Flowers%20for%20Algernon) |
-| Luciano Ramalho | Fluent Python | [Amazon](https://www.amazon.com/s?k=Luciano%20Ramalho+Fluent%20Python) |
-| Nassim Nicholas Taleb | Fooled by Randomness | [Amazon](https://www.amazon.com/s?k=Nassim%20Nicholas%20Taleb+Fooled%20by%20Randomness) |
-| Umberto Eco | Foucault's Pendulum | [Amazon](https://www.amazon.com/s?k=Umberto%20Eco+Foucault's%20Pendulum) |
-| Isaac Asimov | Foundation | [Amazon](https://www.amazon.com/s?k=Isaac%20Asimov+Foundation) |
-| Isaac Asimov | Foundation and Empire | [Amazon](https://www.amazon.com/s?k=Isaac%20Asimov+Foundation%20and%20Empire) |
-| Isaac Asimov | Foundation's Edge | [Amazon](https://www.amazon.com/s?k=Isaac%20Asimov+Foundation's%20Edge) |
-| Jessica Livingston | Founders at Work | [Amazon](https://www.amazon.com/s?k=Jessica%20Livingston+Founders%20at%20Work) |
-| Oliver Burkeman | Four Thousand Weeks | [Amazon](https://www.amazon.com/s?k=Oliver%20Burkeman+Four%20Thousand%20Weeks) |
-| Mary Shelley | Frankenstein | [Amazon](https://www.amazon.com/s?k=Mary%20Shelley+Frankenstein) |
-| Steven D. Levitt | Freakonomics | [Amazon](https://www.amazon.com/s?k=Steven%20D.%20Levitt+Freakonomics) |
-| Stephen J. Dubner | Freakonomics | [Amazon](https://www.amazon.com/s?k=Stephen%20J.%20Dubner+Freakonomics) |
-| Sam Harris | Free Will | [Amazon](https://www.amazon.com/s?k=Sam%20Harris+Free%20Will) |
-| Daniel Suarez | Freedom | [Amazon](https://www.amazon.com/s?k=Daniel%20Suarez+Freedom) |
-| J. Krishnamurti | Freedom from the Known | [Amazon](https://www.amazon.com/s?k=J.%20Krishnamurti+Freedom%20from%20the%20Known) |
-| Rúnar Bjarnason | Functional Programming in Scala | [Amazon](https://www.amazon.com/s?k=R%C3%BAnar%20Bjarnason+Functional%20Programming%20in%20Scala) |
-| Paul Chiusano | Functional Programming in Scala | [Amazon](https://www.amazon.com/s?k=Paul%20Chiusano+Functional%20Programming%20in%20Scala) |
-| Jearl Walker | Fundamentals of Physics | [Amazon](https://www.amazon.com/s?k=Jearl%20Walker+Fundamentals%20of%20Physics) |
-| Robert Resnick | Fundamentals of Physics | [Amazon](https://www.amazon.com/s?k=Robert%20Resnick+Fundamentals%20of%20Physics) |
-| David Halliday | Fundamentals of Physics | [Amazon](https://www.amazon.com/s?k=David%20Halliday+Fundamentals%20of%20Physics) |
-| Robert Nystrom | Game Programming Patterns | [Amazon](https://www.amazon.com/s?k=Robert%20Nystrom+Game%20Programming%20Patterns) |
-| Sudhir Venkatesh | Gang Leader for a Day | [Amazon](https://www.amazon.com/s?k=Sudhir%20Venkatesh+Gang%20Leader%20for%20a%20Day) |
-| 37signals | Getting Real | [Amazon](https://www.amazon.com/s?k=37signals+Getting%20Real) |
-| David Allen | Getting Things Done | [Amazon](https://www.amazon.com/s?k=David%20Allen+Getting%20Things%20Done) |
-| William Ury | Getting to Yes | [Amazon](https://www.amazon.com/s?k=William%20Ury+Getting%20to%20Yes) |
-| Roger Fisher | Getting to Yes | [Amazon](https://www.amazon.com/s?k=Roger%20Fisher+Getting%20to%20Yes) |
-| Kevin Mitnick | Ghost in the Wires | [Amazon](https://www.amazon.com/s?k=Kevin%20Mitnick+Ghost%20in%20the%20Wires) |
-| John Bowe | Gig | [Amazon](https://www.amazon.com/s?k=John%20Bowe+Gig) |
-| Adam Grant | Give and Take | [Amazon](https://www.amazon.com/s?k=Adam%20Grant+Give%20and%20Take) |
-| Charles Stross | Glasshouse | [Amazon](https://www.amazon.com/s?k=Charles%20Stross+Glasshouse) |
-| Frank Herbert | God Emperor of Dune | [Amazon](https://www.amazon.com/s?k=Frank%20Herbert+God%20Emperor%20of%20Dune) |
-| Douglas Hofstadter | Gödel, Escher, Bach | [Amazon](https://www.amazon.com/s?k=Douglas%20Hofstadter+G%C3%B6del%2C%20Escher%2C%20Bach) |
-| Terry Pratchett | Going Postal | [Amazon](https://www.amazon.com/s?k=Terry%20Pratchett+Going%20Postal) |
-| Gary Taubes | Good Calories, Bad Calories | [Amazon](https://www.amazon.com/s?k=Gary%20Taubes+Good%20Calories%2C%20Bad%20Calories) |
-| Terry Pratchett | Good Omens | [Amazon](https://www.amazon.com/s?k=Terry%20Pratchett+Good%20Omens) |
-| Neil Gaiman | Good Omens | [Amazon](https://www.amazon.com/s?k=Neil%20Gaiman+Good%20Omens) |
-| Richard Rumelt | Good Strategy Bad Strategy | [Amazon](https://www.amazon.com/s?k=Richard%20Rumelt+Good%20Strategy%20Bad%20Strategy) |
-| Jim Collins | Good to Great | [Amazon](https://www.amazon.com/s?k=Jim%20Collins+Good%20to%20Great) |
-| Charles W. Misner | Gravitation | [Amazon](https://www.amazon.com/s?k=Charles%20W.%20Misner+Gravitation) |
-| Kip S. Thorne | Gravitation | [Amazon](https://www.amazon.com/s?k=Kip%20S.%20Thorne+Gravitation) |
-| John Archibald Wheeler | Gravitation | [Amazon](https://www.amazon.com/s?k=John%20Archibald%20Wheeler+Gravitation) |
-| Thomas Pynchon | Gravity's Rainbow | [Amazon](https://www.amazon.com/s?k=Thomas%20Pynchon+Gravity's%20Rainbow) |
-| Angela Duckworth | Grit | [Amazon](https://www.amazon.com/s?k=Angela%20Duckworth+Grit) |
-| Aditya Bhargava | Grokking Algorithms | [Amazon](https://www.amazon.com/s?k=Aditya%20Bhargava+Grokking%20Algorithms) |
-| Jonathan Swift | Gulliver's Travels | [Amazon](https://www.amazon.com/s?k=Jonathan%20Swift+Gulliver's%20Travels) |
-| Jared Diamond | Guns, Germs, and Steel | [Amazon](https://www.amazon.com/s?k=Jared%20Diamond+Guns%2C%20Germs%2C%20and%20Steel) |
-| Henry S. Warren Jr. | Hacker's Delight | [Amazon](https://www.amazon.com/s?k=Henry%20S.%20Warren%20Jr.+Hacker's%20Delight) |
+| Robert L. Glass | Facts and Fallacies of Software Engineering | [Amazon](https://amzn.to/3AWyCOx) |
+| Ray Bradbury | Fahrenheit 451 | [Amazon](https://amzn.to/4gjfJW7) |
+| Johann Wolfgang von Goethe | Faust | [Amazon](https://amzn.to/3TopIzE) |
+| Thich Nhat Hanh | Fear | [Amazon](https://amzn.to/4eiC7NC) |
+| David D. Burns | Feeling Good | [Amazon](https://amzn.to/4eiC18I) |
+| Simon Singh | Fermat's Enigma | [Amazon](https://amzn.to/3MC34js) |
+| Simon Singh | Fermat's Last Theorem | [Amazon](https://amzn.to/3MZf9jf) |
+| Jorge Luis Borges | Ficciones | [Amazon](https://amzn.to/3MC39Ui) |
+| Mihaly Csikszentmihalyi | Finding Flow | [Amazon](https://amzn.to/4e8agjg) |
+| James P. Carse | Finite and Infinite Games | [Amazon](https://amzn.to/4eetmEo) |
+| James Joyce | Finnegans Wake | [Amazon](https://amzn.to/4ebWWu0) |
+| Marcus Buckingham | First, Break All the Rules | [Amazon](https://amzn.to/4ejEvnd) |
+| Curt Coffman | First, Break All the Rules | [Amazon](https://amzn.to/4ehI7WV) |
+| Michael Lewis | Flash Boys | [Amazon](https://amzn.to/3TlTSnc) |
+| Edwin A. Abbott | Flatland | [Amazon](https://amzn.to/3TmZ2Q6) |
+| Mihaly Csikszentmihalyi | Flow | [Amazon](https://amzn.to/4dQFefY) |
+| Daniel Keyes | Flowers for Algernon | [Amazon](https://amzn.to/4dXYWGA) |
+| Luciano Ramalho | Fluent Python | [Amazon](https://amzn.to/4ebX10M) |
+| Nassim Nicholas Taleb | Fooled by Randomness | [Amazon](https://amzn.to/3AUFf3P) |
+| Umberto Eco | Foucault's Pendulum | [Amazon](https://amzn.to/4ekOd9b) |
+| Isaac Asimov | Foundation | [Amazon](https://amzn.to/3TmKnnW) |
+| Isaac Asimov | Foundation and Empire | [Amazon](https://amzn.to/4dYKSNa) |
+| Isaac Asimov | Foundation's Edge | [Amazon](https://amzn.to/3zfmSpY) |
+| Jessica Livingston | Founders at Work | [Amazon](https://amzn.to/3ThU5HV) |
+| Oliver Burkeman | Four Thousand Weeks | [Amazon](https://amzn.to/3TmeN9M) |
+| Mary Shelley | Frankenstein | [Amazon](https://amzn.to/4dVZ61o) |
+| Steven D. Levitt | Freakonomics | [Amazon](https://amzn.to/4e8A3YM) |
+| Stephen J. Dubner | Freakonomics | [Amazon](https://amzn.to/3Too7Km) |
+| Sam Harris | Free Will | [Amazon](https://amzn.to/3TpiFXv) |
+| Daniel Suarez | Freedom | [Amazon](https://amzn.to/3TmeOKS) |
+| J. Krishnamurti | Freedom from the Known | [Amazon](https://amzn.to/4dUrpNL) |
+| Rúnar Bjarnason | Functional Programming in Scala | [Amazon](https://amzn.to/4ed49Kq) |
+| Paul Chiusano | Functional Programming in Scala | [Amazon](https://amzn.to/4eetBPO) |
+| Jearl Walker | Fundamentals of Physics | [Amazon](https://amzn.to/4dUzJwF) |
+| Robert Resnick | Fundamentals of Physics | [Amazon](https://amzn.to/4ejEgca) |
+| David Halliday | Fundamentals of Physics | [Amazon](https://amzn.to/4dU1Mg0) |
+| Robert Nystrom | Game Programming Patterns | [Amazon](https://amzn.to/4ggDIW5) |
+| Sudhir Venkatesh | Gang Leader for a Day | [Amazon](https://amzn.to/3B6ItkQ) |
+| 37signals | Getting Real | [Amazon](https://amzn.to/4d2fj3A) |
+| David Allen | Getting Things Done | [Amazon](https://amzn.to/3AVnMbE) |
+| William Ury | Getting to Yes | [Amazon](https://amzn.to/4ggDKgF) |
+| Roger Fisher | Getting to Yes | [Amazon](https://amzn.to/4dZjQp4) |
+| Kevin Mitnick | Ghost in the Wires | [Amazon](https://amzn.to/3ZpnYtI) |
+| John Bowe | Gig | [Amazon](https://amzn.to/4gboGkm) |
+| Adam Grant | Give and Take | [Amazon](https://amzn.to/47m92Pd) |
+| Charles Stross | Glasshouse | [Amazon](https://amzn.to/3ZdL86s) |
+| Frank Herbert | God Emperor of Dune | [Amazon](https://amzn.to/4cZOjC1) |
+| Douglas Hofstadter | Gödel, Escher, Bach | [Amazon](https://amzn.to/4ggDMoN) |
+| Terry Pratchett | Going Postal | [Amazon](https://amzn.to/3B6wzHE) |
+| Gary Taubes | Good Calories, Bad Calories | [Amazon](https://amzn.to/47BxvAl) |
+| Terry Pratchett | Good Omens | [Amazon](https://amzn.to/3z2FkSL) |
+| Neil Gaiman | Good Omens | [Amazon](https://amzn.to/4gkIm5C) |
+| Richard Rumelt | Good Strategy Bad Strategy | [Amazon](https://amzn.to/3AU29bQ) |
+| Jim Collins | Good to Great | [Amazon](https://amzn.to/4gg4Vbv) |
+| Charles W. Misner | Gravitation | [Amazon](https://amzn.to/4gjg2Af) |
+| Kip S. Thorne | Gravitation | [Amazon](https://amzn.to/4gg2JAP) |
+| John Archibald Wheeler | Gravitation | [Amazon](https://amzn.to/3z3sKCK) |
+| Thomas Pynchon | Gravity's Rainbow | [Amazon](https://amzn.to/3ZjJLTD) |
+| Angela Duckworth | Grit | [Amazon](https://amzn.to/4ghEqm0) |
+| Aditya Bhargava | Grokking Algorithms | [Amazon](https://amzn.to/3XAdqa1) |
+| Jonathan Swift | Gulliver's Travels | [Amazon](https://amzn.to/3MENpA0) |
+| Jared Diamond | Guns, Germs, and Steel | [Amazon](https://amzn.to/47hu5lX) |
+| Henry S. Warren Jr. | Hacker's Delight | [Amazon](https://amzn.to/47BxCvL) |
 | Steven Levy | Hackers | [Amazon](https://www.amazon.com/s?k=Steven%20Levy+Hackers) |
 | Paul Graham | Hackers and Painters | [Amazon](https://www.amazon.com/s?k=Paul%20Graham+Hackers%20and%20Painters) |
 | Jim Erickson | Hard Drive | [Amazon](https://www.amazon.com/s?k=Jim%20Erickson+Hard%20Drive) |
